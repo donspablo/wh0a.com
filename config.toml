@@ -1,5 +1,5 @@
 title = "wh0a.com - a don Federation Company"
-baseURL = "https://example.com"
+baseURL = "/"
 languageCode = "en-us"
 theme = "ananke"
 
