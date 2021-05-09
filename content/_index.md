@@ -1,5 +1,5 @@
 ---
-title: 'wh0a.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'wh0a.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "wh0a.com is under construction."
 ---
 
